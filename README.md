@@ -69,8 +69,8 @@ This image provides various versions that are available via tags. Please read th
 ## Application Setup
 
 Access the web interface at `http://your-ip:8000` the default login is: 
-username - **pyload**
-password - **pyload**
+- username: `pyload`
+- password:  `pyload`
 
 For general usage please see the pyLoad wiki [here](https://github.com/pyload/pyload/wiki) .
 
